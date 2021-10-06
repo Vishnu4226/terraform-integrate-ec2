@@ -1,7 +1,7 @@
 data:
   name: DHITSAWSSQLIP21
   keypair: windows
-  subnetid: subnet-9a098ed0
+  subnetid: subnet-1a096c62
   imageid: ami-0cfd5bb65a4c8af1e
   instancetype: t2.large
   securitygroupid: 	sg-066376218332c8657
